@@ -1,7 +1,7 @@
 # frp_application
 使用示例
 
-根据对应的操作系统及架构，从 Release 页面下载最新版本的程序。
+根据对应的操作系统及架构，从 <a href="https://github.com/fatedier/frp/releases">Release</a> 页面下载最新版本的程序。
 
 将 frps 及 frps.ini 放到具有公网 IP 的机器上。
 
