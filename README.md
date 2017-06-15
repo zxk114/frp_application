@@ -11,9 +11,13 @@
 
 修改 frps.ini 文件，这里使用了最简化的配置：
 # frps.ini
+
 [common]
+
 bind_port = 7000
+
 启动 frps：
+
 ./frps -c ./frps.ini
 
 修改 frpc.ini 文件，假设 frps 所在服务器的公网 IP 为 x.x.x.x；
